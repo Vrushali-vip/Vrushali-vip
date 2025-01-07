@@ -8,8 +8,7 @@ Crafting code and chasing dreams
 
 * 🌍  I'm based in Nashik
 * ✉️  You can contact me at [vrushali.vip2002@gmail.com](mailto:vrushali.vip2002@gmail.com)
-* 🧠  I'm learning Node.js, Express.js
-* 🤝  I'm open to collaborating on Front-end development and Django framework rest framework
+* 🤝  I'm open to collaborating on Front-end development and back-end framework rest framework
 
 ### Skills
 
